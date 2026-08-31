@@ -1,0 +1,7 @@
+.DS_Store
+*.log
+node_modules/
+dist/
+cv_input.md
+cv_input.docx
+~$*
